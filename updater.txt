@@ -1,9 +1,9 @@
 {
-  "salindri_update": [
+  "SDK MOD_update": [
     {
  "version":"5.75.1",
  "title":"Update Tersedia",
- "description":"SalMod InDriver recommends that you
+ "description":"SDK PRO InDriver recommends that you
 update to the latest version 5.74.1 You
 can keep online the app while
 downloading the update.",
