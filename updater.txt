@@ -1,0 +1,13 @@
+{
+  "salindri_update": [
+    {
+ "version":"5.74.1",
+ "title":"Update Tersedia",
+ "description":"SalMod InDriver recommends that you
+update to the latest version 5.74.1 You
+can keep online the app while
+downloading the update.",
+"download":"https://drive.google.com/APK BISA DI UPLOAD DI GOOGLE DRIVE"
+}
+  ]
+}
