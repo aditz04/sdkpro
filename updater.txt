@@ -1,5 +1,5 @@
 {
-  "salindri_update": [
+  "SDK MOD_update": [
     {
  "version":"5.74.1",
  "title":"Update Tersedia",
