@@ -1,5 +1,5 @@
 {
-  "SDK MOD_update": [
+  "SDK PRO MOD_update": [
     {
  "version":"5.75.1",
  "title":"Update Tersedia",
